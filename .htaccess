@@ -1,0 +1,9 @@
+# mod_rewrite
+RewriteEngine on
+# Conditions
+# Do not apply to existing directies, if the folder exists then don't change anything
+RewriteCond %{REQUEST_FILENAME} !-d
+# Make sure that the html even exists
+RewriteCond %{REQUEST_FILENAME}\.html -f
+# Show the page that has the html extension
+RewriteRule ^(.*)$ $1.html [NC,L]
