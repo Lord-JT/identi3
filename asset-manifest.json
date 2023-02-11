@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea651e3d.css",
+    "main.js": "/static/js/main.cf862bac.js",
+    "static/js/787.59cc8ebc.chunk.js": "/static/js/787.59cc8ebc.chunk.js",
+    "static/media/MusicMatrix.gif": "/static/media/MusicMatrix.de8f3d45986ef73a9255.gif",
+    "static/media/Ethan.png": "/static/media/Ethan.db7d67b9d5fdebf92470.png",
+    "static/media/Roadmap.png": "/static/media/Roadmap.898cc54b0ec417ec761c.png",
+    "static/media/TwitterBirdWhite.png": "/static/media/TwitterBirdWhite.ce1a8948b12bed52dc41.png",
+    "static/media/AltLogoLong.png": "/static/media/AltLogoLong.c0d1c9edfd680f885301.png",
+    "static/media/Logo.png": "/static/media/Logo.bb794fc3504495392c71.png",
+    "static/media/InstagramInverted.png": "/static/media/InstagramInverted.cb863be05f038349b414.png",
+    "static/media/JT.jpg": "/static/media/JT.bf1ceedab464e149ef05.jpg",
+    "static/media/DiscordWhite.png": "/static/media/DiscordWhite.71672ded32c89f87cf2b.png",
+    "index.html": "/index.html",
+    "main.ea651e3d.css.map": "/static/css/main.ea651e3d.css.map",
+    "main.cf862bac.js.map": "/static/js/main.cf862bac.js.map",
+    "787.59cc8ebc.chunk.js.map": "/static/js/787.59cc8ebc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea651e3d.css",
+    "static/js/main.cf862bac.js"
+  ]
+}
