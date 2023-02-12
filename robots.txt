@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Lord-JT/identi3/blob/master/sitemap.xml
+Sitemap: https://identi3studios.com/sitemap.xml
