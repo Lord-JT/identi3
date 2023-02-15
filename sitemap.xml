@@ -5,19 +5,19 @@
         <priority>1.0</priority>
 	</url>
     <url>
-		<loc>https://www.identi3studios.com/mint</loc>
+		<loc>https://www.identi3studios.com/?/mint</loc>
         <priority>1.0</priority>
 	</url>
 	<url>
-		<loc>https://www.identi3studios.com/about</loc>
+		<loc>https://www.identi3studios.com/?/about</loc>
         <priority>0.9</priority>
 	</url>
 	<url>
-		<loc>https://www.identi3studios.com/roadmap</loc>
+		<loc>https://www.identi3studios.com/?/roadmap</loc>
         <priority>0.8</priority>
 	</url>
 	<url>
-		<loc>https://www.identi3studios.com/faq</loc>
+		<loc>https://www.identi3studios.com/?/faq</loc>
         <priority>0.8</priority>
 	</url>
 </urlset>
