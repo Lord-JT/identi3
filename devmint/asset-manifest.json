@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc47192b.css",
+    "main.js": "/static/js/main.d7237ef6.js",
+    "static/js/118.1870c05b.chunk.js": "/static/js/118.1870c05b.chunk.js",
+    "static/js/59.f143e3d6.chunk.js": "/static/js/59.f143e3d6.chunk.js",
+    "static/js/997.7a5d9e55.chunk.js": "/static/js/997.7a5d9e55.chunk.js",
+    "static/js/787.a1484e31.chunk.js": "/static/js/787.a1484e31.chunk.js",
+    "static/js/332.62d49910.chunk.js": "/static/js/332.62d49910.chunk.js",
+    "static/js/320.9b12e69a.chunk.js": "/static/js/320.9b12e69a.chunk.js",
+    "static/js/452.66cf6b19.chunk.js": "/static/js/452.66cf6b19.chunk.js",
+    "static/media/MusicMatrix.gif": "/static/media/MusicMatrix.de8f3d45986ef73a9255.gif",
+    "static/media/TwitterBirdWhite.png": "/static/media/TwitterBirdWhite.ce1a8948b12bed52dc41.png",
+    "static/media/Logo.png": "/static/media/Logo.bb794fc3504495392c71.png",
+    "static/media/InstagramInverted.png": "/static/media/InstagramInverted.cb863be05f038349b414.png",
+    "static/media/DiscordWhite.png": "/static/media/DiscordWhite.71672ded32c89f87cf2b.png",
+    "index.html": "/index.html",
+    "main.dc47192b.css.map": "/static/css/main.dc47192b.css.map",
+    "main.d7237ef6.js.map": "/static/js/main.d7237ef6.js.map",
+    "59.f143e3d6.chunk.js.map": "/static/js/59.f143e3d6.chunk.js.map",
+    "787.a1484e31.chunk.js.map": "/static/js/787.a1484e31.chunk.js.map",
+    "332.62d49910.chunk.js.map": "/static/js/332.62d49910.chunk.js.map",
+    "320.9b12e69a.chunk.js.map": "/static/js/320.9b12e69a.chunk.js.map",
+    "452.66cf6b19.chunk.js.map": "/static/js/452.66cf6b19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc47192b.css",
+    "static/js/main.d7237ef6.js"
+  ]
+}
