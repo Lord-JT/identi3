@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/devmint/static/css/main.1038a30e.css",
-    "main.js": "/devmint/static/js/main.748688ab.js",
+    "main.css": "/devmint/static/css/main.dd412754.css",
+    "main.js": "/devmint/static/js/main.6bf590a4.js",
     "static/js/118.1870c05b.chunk.js": "/devmint/static/js/118.1870c05b.chunk.js",
     "static/js/59.f143e3d6.chunk.js": "/devmint/static/js/59.f143e3d6.chunk.js",
     "static/js/997.7a5d9e55.chunk.js": "/devmint/static/js/997.7a5d9e55.chunk.js",
@@ -15,8 +15,8 @@
     "static/media/InstagramInverted.png": "/devmint/static/media/InstagramInverted.cb863be05f038349b414.png",
     "static/media/DiscordWhite.png": "/devmint/static/media/DiscordWhite.71672ded32c89f87cf2b.png",
     "index.html": "/devmint/index.html",
-    "main.1038a30e.css.map": "/devmint/static/css/main.1038a30e.css.map",
-    "main.748688ab.js.map": "/devmint/static/js/main.748688ab.js.map",
+    "main.dd412754.css.map": "/devmint/static/css/main.dd412754.css.map",
+    "main.6bf590a4.js.map": "/devmint/static/js/main.6bf590a4.js.map",
     "59.f143e3d6.chunk.js.map": "/devmint/static/js/59.f143e3d6.chunk.js.map",
     "787.a1484e31.chunk.js.map": "/devmint/static/js/787.a1484e31.chunk.js.map",
     "332.62d49910.chunk.js.map": "/devmint/static/js/332.62d49910.chunk.js.map",
@@ -24,7 +24,7 @@
     "452.66cf6b19.chunk.js.map": "/devmint/static/js/452.66cf6b19.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1038a30e.css",
-    "static/js/main.748688ab.js"
+    "static/css/main.dd412754.css",
+    "static/js/main.6bf590a4.js"
   ]
 }
