@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/identi3vippasses/static/css/main.e8f3b3c2.css",
-    "main.js": "/identi3vippasses/static/js/main.578b181c.js",
+    "main.js": "/identi3vippasses/static/js/main.df45e9d8.js",
     "static/js/118.1870c05b.chunk.js": "/identi3vippasses/static/js/118.1870c05b.chunk.js",
     "static/js/59.f143e3d6.chunk.js": "/identi3vippasses/static/js/59.f143e3d6.chunk.js",
     "static/js/997.7a5d9e55.chunk.js": "/identi3vippasses/static/js/997.7a5d9e55.chunk.js",
@@ -16,7 +16,7 @@
     "static/media/DiscordWhite.png": "/identi3vippasses/static/media/DiscordWhite.71672ded32c89f87cf2b.png",
     "index.html": "/identi3vippasses/index.html",
     "main.e8f3b3c2.css.map": "/identi3vippasses/static/css/main.e8f3b3c2.css.map",
-    "main.578b181c.js.map": "/identi3vippasses/static/js/main.578b181c.js.map",
+    "main.df45e9d8.js.map": "/identi3vippasses/static/js/main.df45e9d8.js.map",
     "59.f143e3d6.chunk.js.map": "/identi3vippasses/static/js/59.f143e3d6.chunk.js.map",
     "787.a1484e31.chunk.js.map": "/identi3vippasses/static/js/787.a1484e31.chunk.js.map",
     "332.62d49910.chunk.js.map": "/identi3vippasses/static/js/332.62d49910.chunk.js.map",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.e8f3b3c2.css",
-    "static/js/main.578b181c.js"
+    "static/js/main.df45e9d8.js"
   ]
 }
